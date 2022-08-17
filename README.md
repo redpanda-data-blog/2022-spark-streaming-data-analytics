@@ -1,4 +1,4 @@
-# DEMO TITLE
+# Using Spark Streaming and Redpanda for Real-Time Data Analytics - Demo
 
 Description of demo here
 
