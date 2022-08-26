@@ -1,8 +1,8 @@
-# Using Spark Streaming and Redpanda for Real-Time Data Analytics - Demo
+# Using Spark Streaming and Redpanda for Real-Time Data Analytics
 
 Description of demo here
 
-Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/) to put this demo into action. 
+Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/real-time-analytics-application-apache-spark-streaming) to put this demo into action. 
 
 ---------------
 
